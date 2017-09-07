@@ -9,11 +9,20 @@ I'll do a list
 \t* catnip\n\t* Grass\a
 """
 
+
+catty='''
+I'll do a list
+\t* Cat food\a
+\t* fishes\a
+\t* catnip\n\t* Grass\a
+'''
+
+
 print tabby_cat
 print persian_cat
 print backslash_cat
 print fat_cat
-
+print catty
 
 while True:
  for i in ["/","- ","|","\\","|"]:

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d8de613-15b9-4219-97f0-c61e22b2f57e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise 10/ex10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise 11/ex11.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exercise 10/ex10.py" afterPath="$PROJECT_DIR$/Exercise 10/ex10.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ex10.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise 10/ex10.py">
+      <file leaf-file-name="ex11.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise 11/ex11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="168">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -50,6 +51,7 @@
         <option value="$PROJECT_DIR$/Exercise 8/ex8.py" />
         <option value="$PROJECT_DIR$/Exercise 9/ex9.py" />
         <option value="$PROJECT_DIR$/Exercise 10/ex10.py" />
+        <option value="$PROJECT_DIR$/Exercise 11/ex11.py" />
       </list>
     </option>
   </component>
@@ -107,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex10">
+  <component name="RunManager" selected="Python.ex11">
     <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,6 +123,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learn-Python-The-Hard-Way" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 10/ex10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-Python-The-Hard-Way" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 11/ex11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,37 +195,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="exe6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise 6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Learn-Python-The-Hard-Way" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 6/exe6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exe6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ex7" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex8" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex9" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ex7" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex8" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex10" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex11" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex10" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex9" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex8" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ex7" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exe6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex11" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex10" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex9" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex8" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ex7" />
       </list>
     </recent_temporary>
   </component>
@@ -340,8 +342,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise 10/ex10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="135">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise 11/ex11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>

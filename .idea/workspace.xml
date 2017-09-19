@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d8de613-15b9-4219-97f0-c61e22b2f57e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise 26/ex26.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exercise 29/ex29.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +16,18 @@
     <favorites_list name="Learn-Python-The-Hard-Way" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ex29.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise 29/ex29.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,10 +73,11 @@
         <option value="$PROJECT_DIR$/Exercise 24/ex24.py" />
         <option value="$PROJECT_DIR$/Exercise 25/ex25.py" />
         <option value="$PROJECT_DIR$/Exercise 26/ex26.py" />
+        <option value="$PROJECT_DIR$/Exercise 29/ex29.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -120,24 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex26">
-    <configuration name="ex21" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise 21" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Learn-Python-The-Hard-Way" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 21/ex21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex29">
     <configuration name="ex24" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,6 +184,23 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="ex29" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise 29" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-Python-The-Hard-Way" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise 29/ex29.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="receiver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,19 +219,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ex21" />
-      <item index="1" class="java.lang.String" itemvalue="Python.receiver" />
-      <item index="2" class="java.lang.String" itemvalue="Python.ex24" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ex25" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ex26" />
+      <item index="0" class="java.lang.String" itemvalue="Python.receiver" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ex24" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ex25" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ex26" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ex29" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ex26" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ex25" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ex24" />
-        <item index="3" class="java.lang.String" itemvalue="Python.receiver" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ex21" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ex29" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ex26" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ex25" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ex24" />
+        <item index="4" class="java.lang.String" itemvalue="Python.receiver" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +261,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="738" extended-state="7" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27446485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -629,6 +642,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise 29/ex29.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>

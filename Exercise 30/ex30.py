@@ -21,3 +21,4 @@ if people>buses:
     print"alright let's just take buses"
 else:
     print "fine , lets stay home"
+    
